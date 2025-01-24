@@ -1,4 +1,4 @@
-# Data-Analytics
+# Bank Loan Case Study - READ ME
 This project involves analyzing loan application data to identify patterns influencing loan default risk, ensuring capable applicants are not rejected while minimizing financial losses. Using Exploratory Data Analysis (EDA), the key objectives are:
 
 Handling Missing Data: Identify and address missing values using Excel functions (e.g., COUNT, ISBLANK) and appropriate imputation techniques.
